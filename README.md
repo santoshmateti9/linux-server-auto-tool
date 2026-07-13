@@ -29,15 +29,6 @@ linux-server-auto-tool/
 │   ├── system_info.sh
 │   ├── disk_usage_monitor.sh
 │   └── process_manager.sh
-│
-├── notes/
-│   ├── linux_file_system.md
-│   ├── file_permissions.md
-│   ├── users_and_groups.md
-│   ├── bash_scripting.md
-│   ├── networking_basics.md
-│   └── process_management.md
-│
 └── README.md
 ```
 
