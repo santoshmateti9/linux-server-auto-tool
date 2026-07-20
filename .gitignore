@@ -1,0 +1,16 @@
+# Logs
+logs/*.log
+
+# Reports
+reports/*.txt
+
+# Backups
+backups/*.tar.gz
+backups/*.zip
+
+# Temporary files
+*.tmp
+*.swp
+
+# macOS
+.DS_Store
