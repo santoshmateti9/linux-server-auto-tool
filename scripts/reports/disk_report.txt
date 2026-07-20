@@ -1,0 +1,20 @@
+===== Disk Usage Report =====
+Mon Jul 20 15:34:48 UTC 2026
+
+none 0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none 1% /mnt/wsl
+drivers 96% /usr/lib/wsl/drivers
+/dev/sdd 1% /
+none 1% /mnt/wslg
+none 0% /usr/lib/wsl/lib
+rootfs 1% /init
+none 1% /run
+none 0% /run/lock
+none 0% /run/shm
+none 1% /mnt/wslg/versions.txt
+none 1% /mnt/wslg/doc
+C: 96% /mnt/c 
+snapfuse 100% /snap/tree/54
+snapfuse 100% /snap/snapd/27406
+snapfuse 100% /snap/core22/2411
+tmpfs 1% /run/user/1000
