@@ -60,7 +60,7 @@ linux-server-auto-tool/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/linux-server-auto-tool.git
+git clone https://github.com/santoshmateti9/linux-server-auto-tool.git
 ```
 
 Move into the project:
